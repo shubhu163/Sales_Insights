@@ -1,4 +1,4 @@
-#Sales Insights
+# Sales Insights
 
 This project leverages SQL and Power BI to analyze coffee shop sales data, providing insights into business performance through KPIs and visualizations.
 
